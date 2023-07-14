@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Akınkaldiroglu.iml" filepath="$PROJECT_DIR$/.idea/Akınkaldiroglu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/NesneninDavranisleriMetotlar/CircleApp/CircleApp.iml" filepath="$PROJECT_DIR$/chapter9/NesneninDavranisleriMetotlar/CircleApp/CircleApp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/Kurucular/Kurucular.iml" filepath="$PROJECT_DIR$/chapter10/Kurucular/Kurucular.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/KurucularinCokluKullanimi/KurucularinCokluKullanimi.iml" filepath="$PROJECT_DIR$/chapter10/KurucularinCokluKullanimi/KurucularinCokluKullanimi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/NesneninDavranisleriMetotlar/NesneninDavranisleriMetotlar.iml" filepath="$PROJECT_DIR$/chapter9/NesneninDavranisleriMetotlar/NesneninDavranisleriMetotlar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/NesneninDurumuAlanlar/OOPLesson1.iml" filepath="$PROJECT_DIR$/chapter9/NesneninDurumuAlanlar/OOPLesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/ObjectClassDenemeleri/ObjectClassDenemeleri.iml" filepath="$PROJECT_DIR$/chapter13/ObjectClassDenemeleri/ObjectClassDenemeleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/StaticUygulamasi/StaticUygulamasi.iml" filepath="$PROJECT_DIR$/chapter10/StaticUygulamasi/StaticUygulamasi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/ThisKullanimi/ThisKullanimi.iml" filepath="$PROJECT_DIR$/chapter10/ThisKullanimi/ThisKullanimi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter10/chapter10.iml" filepath="$PROJECT_DIR$/chapter10/chapter10.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter13/chapter13.iml" filepath="$PROJECT_DIR$/chapter13/chapter13.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/chapter14.iml" filepath="$PROJECT_DIR$/chapter14/chapter14.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/chapter9.iml" filepath="$PROJECT_DIR$/chapter9/chapter9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter14/enum/enum.iml" filepath="$PROJECT_DIR$/chapter14/enum/enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/odevler/odev1/odev1.iml" filepath="$PROJECT_DIR$/chapter9/odevler/odev1/odev1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/odevler/odev2/odev2.iml" filepath="$PROJECT_DIR$/chapter9/odevler/odev2/odev2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/odevler/odevler.iml" filepath="$PROJECT_DIR$/chapter9/odevler/odevler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chapter9/var_argumani_parametre_gecme/var_argumani_parametre_gecme.iml" filepath="$PROJECT_DIR$/chapter9/var_argumani_parametre_gecme/var_argumani_parametre_gecme.iml" />
+    </modules>
+  </component>
+</project>

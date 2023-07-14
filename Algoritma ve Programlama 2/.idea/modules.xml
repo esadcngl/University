@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson9/AbstractDenemeleri/AbstractDenemeleri.iml" filepath="$PROJECT_DIR$/AlgoLesson9/AbstractDenemeleri/AbstractDenemeleri.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoBut/AlgoBut.iml" filepath="$PROJECT_DIR$/AlgoBut/AlgoBut.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLabProject/AlgoLabProject.iml" filepath="$PROJECT_DIR$/AlgoLabProject/AlgoLabProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson1/AlgoLesson1.iml" filepath="$PROJECT_DIR$/AlgoLesson1/AlgoLesson1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson2/AlgoLesson2.iml" filepath="$PROJECT_DIR$/AlgoLesson2/AlgoLesson2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson3/AlgoLesson3.iml" filepath="$PROJECT_DIR$/AlgoLesson3/AlgoLesson3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson4/AlgoLesson4.iml" filepath="$PROJECT_DIR$/AlgoLesson4/AlgoLesson4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson5/AlgoLesson5.iml" filepath="$PROJECT_DIR$/AlgoLesson5/AlgoLesson5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson7/AlgoLesson7.iml" filepath="$PROJECT_DIR$/AlgoLesson7/AlgoLesson7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson8/AlgoLesson8.iml" filepath="$PROJECT_DIR$/AlgoLesson8/AlgoLesson8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson9/AlgoLesson9.iml" filepath="$PROJECT_DIR$/AlgoLesson9/AlgoLesson9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoVizeDenemee/AlgoVizeDenemee.iml" filepath="$PROJECT_DIR$/AlgoVizeDenemee/AlgoVizeDenemee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson3/BKI/BKI.iml" filepath="$PROJECT_DIR$/AlgoLesson3/BKI/BKI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson5/Constructor Chaning/Constructor Chaning.iml" filepath="$PROJECT_DIR$/AlgoLesson5/Constructor Chaning/Constructor Chaning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson3/DateClassUsing/DateClassUsing.iml" filepath="$PROJECT_DIR$/AlgoLesson3/DateClassUsing/DateClassUsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/EsoWorkspace.iml" filepath="$PROJECT_DIR$/.idea/EsoWorkspace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson7/ExceptionHandling/ExceptionHandling.iml" filepath="$PROJECT_DIR$/AlgoLesson7/ExceptionHandling/ExceptionHandling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson8/FileClass/FileClass.iml" filepath="$PROJECT_DIR$/AlgoLesson8/FileClass/FileClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson5/GeometrikSekil_Inheritance/GeometrikSekil_Inheritance.iml" filepath="$PROJECT_DIR$/AlgoLesson5/GeometrikSekil_Inheritance/GeometrikSekil_Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Labirent/Labirent.iml" filepath="$PROJECT_DIR$/Labirent/Labirent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson8/MetinDegistirme/MetinDegistirme.iml" filepath="$PROJECT_DIR$/AlgoLesson8/MetinDegistirme/MetinDegistirme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson8/PrintWriter/PrintWriter.iml" filepath="$PROJECT_DIR$/AlgoLesson8/PrintWriter/PrintWriter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson3/RandomClassUsing/RandomClassUsing.iml" filepath="$PROJECT_DIR$/AlgoLesson3/RandomClassUsing/RandomClassUsing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AlgoLesson8/Scanner/Scanner.iml" filepath="$PROJECT_DIR$/AlgoLesson8/Scanner/Scanner.iml" />
+    </modules>
+  </component>
+</project>
