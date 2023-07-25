@@ -1,4 +1,4 @@
-package ThirdStepDrawingWidget;
+package Head_First_Java_chapter_12_13.ThirdStepDrawingWidget;
 import java.awt.*;
 import javax.swing.*;
 public class MyDrawPanel extends JPanel{

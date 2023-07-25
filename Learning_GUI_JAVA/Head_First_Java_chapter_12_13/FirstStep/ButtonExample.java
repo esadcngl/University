@@ -1,4 +1,4 @@
-package FirstStep;
+package Head_First_Java_chapter_12_13.FirstStep;
 import javax.swing.*;
 public class ButtonExample {
     public static void main(String[] args) {

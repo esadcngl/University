@@ -1,4 +1,4 @@
-package ThirdStepDrawingWidget;
+package Head_First_Java_chapter_12_13.ThirdStepDrawingWidget;
 
 import javax.swing.*;
 import java.awt.*;
@@ -6,7 +6,7 @@ import java.awt.*;
 public class DrawCat extends JPanel {
 
     public void paintComponent(Graphics g) {
-        Image image = new ImageIcon("C:\\Users\\Esadcngl\\Documents\\GitHub\\University\\Learning_GUI_JAVA\\ThirdStepDrawingWidget\\cat.jpeg").getImage();
+        Image image = new ImageIcon("C:\\Users\\Esadcngl\\Documents\\GitHub\\University\\Learning_GUI_JAVA\\Head_First_Java_chapter_12_13.ThirdStepDrawingWidget\\cat.jpeg").getImage();
         g.drawImage(image, 3, 4, this);
     }
 
