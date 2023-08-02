@@ -1,4 +1,4 @@
-package Head_First_Java_chapter_12_13.Graphics2D;
+package Chapter_12_13.Graphics2D;
 
 import javax.swing.*;
 import java.awt.*;

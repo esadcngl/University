@@ -1,4 +1,4 @@
-package Head_First_Java_chapter_12_13.ThirdStepDrawingWidget;
+package Chapter_12_13.ThirdStepDrawingWidget;
 
 import javax.swing.*;
 import java.awt.*;
