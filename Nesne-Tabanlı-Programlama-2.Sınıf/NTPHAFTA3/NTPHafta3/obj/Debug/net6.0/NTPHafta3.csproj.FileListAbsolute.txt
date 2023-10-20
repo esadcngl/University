@@ -1,0 +1,15 @@
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\bin\Debug\net6.0\NTPHafta3.exe
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\bin\Debug\net6.0\NTPHafta3.deps.json
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\bin\Debug\net6.0\NTPHafta3.runtimeconfig.json
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\bin\Debug\net6.0\NTPHafta3.dll
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\bin\Debug\net6.0\NTPHafta3.pdb
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\obj\Debug\net6.0\NTPHafta3.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\obj\Debug\net6.0\NTPHafta3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\obj\Debug\net6.0\NTPHafta3.AssemblyInfoInputs.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\obj\Debug\net6.0\NTPHafta3.AssemblyInfo.cs
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\obj\Debug\net6.0\NTPHafta3.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\obj\Debug\net6.0\NTPHafta3.dll
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\obj\Debug\net6.0\refint\NTPHafta3.dll
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\obj\Debug\net6.0\NTPHafta3.pdb
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\obj\Debug\net6.0\NTPHafta3.genruntimeconfig.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA3\NTPHafta3\obj\Debug\net6.0\ref\NTPHafta3.dll

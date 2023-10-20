@@ -1,0 +1,15 @@
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\bin\Debug\net6.0\NTPHAFTA2.exe
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\bin\Debug\net6.0\NTPHAFTA2.deps.json
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\bin\Debug\net6.0\NTPHAFTA2.runtimeconfig.json
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\bin\Debug\net6.0\NTPHAFTA2.dll
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\bin\Debug\net6.0\NTPHAFTA2.pdb
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\obj\Debug\net6.0\NTPHAFTA2.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\obj\Debug\net6.0\NTPHAFTA2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\obj\Debug\net6.0\NTPHAFTA2.AssemblyInfoInputs.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\obj\Debug\net6.0\NTPHAFTA2.AssemblyInfo.cs
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\obj\Debug\net6.0\NTPHAFTA2.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\obj\Debug\net6.0\NTPHAFTA2.dll
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\obj\Debug\net6.0\refint\NTPHAFTA2.dll
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\obj\Debug\net6.0\NTPHAFTA2.pdb
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\obj\Debug\net6.0\NTPHAFTA2.genruntimeconfig.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA2\NTPHAFTA2\obj\Debug\net6.0\ref\NTPHAFTA2.dll
