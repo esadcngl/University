@@ -1,0 +1,10 @@
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\NTPHAFTA5\obj\Debug\NTPHAFTA5.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\NTPHAFTA5\obj\Debug\NTPHAFTA5.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\NTPHAFTA5\bin\Debug\NTPHAFTA5.exe.config
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\NTPHAFTA5\bin\Debug\NTPHAFTA5.exe
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\NTPHAFTA5\bin\Debug\NTPHAFTA5.pdb
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\NTPHAFTA5\obj\Debug\NTPHAFTA5.exe
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\NTPHAFTA5\obj\Debug\NTPHAFTA5.pdb
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\NTPHAFTA5\bin\Debug\Matematiksel_İslemler.dll
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\NTPHAFTA5\bin\Debug\Matematiksel_İslemler.pdb
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\NTPHAFTA5\obj\Debug\NTPHAFTA5.csproj.CopyComplete

@@ -1,0 +1,6 @@
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\Matematiksel_İslemler\bin\Debug\Matematiksel_İslemler.dll
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\Matematiksel_İslemler\bin\Debug\Matematiksel_İslemler.pdb
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\Matematiksel_İslemler\obj\Debug\Matematiksel_İslemler.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\Matematiksel_İslemler\obj\Debug\Matematiksel_İslemler.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\Matematiksel_İslemler\obj\Debug\Matematiksel_İslemler.dll
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA5\Matematiksel_İslemler\obj\Debug\Matematiksel_İslemler.pdb
