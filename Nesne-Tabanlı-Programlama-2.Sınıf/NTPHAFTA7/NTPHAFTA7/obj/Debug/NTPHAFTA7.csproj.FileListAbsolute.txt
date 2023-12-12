@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA7\NTPHAFTA7\bin\Debug\NTPHAFTA7.exe.config
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA7\NTPHAFTA7\bin\Debug\NTPHAFTA7.exe
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA7\NTPHAFTA7\bin\Debug\NTPHAFTA7.pdb
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA7\NTPHAFTA7\obj\Debug\NTPHAFTA7.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA7\NTPHAFTA7\obj\Debug\NTPHAFTA7.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA7\NTPHAFTA7\obj\Debug\NTPHAFTA7.exe
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA7\NTPHAFTA7\obj\Debug\NTPHAFTA7.pdb
