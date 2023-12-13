@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA8\NTPHAFTA8\obj\Debug\NTPHAFTA8.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA8\NTPHAFTA8\obj\Debug\NTPHAFTA8.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA8\NTPHAFTA8\bin\Debug\NTPHAFTA8.exe.config
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA8\NTPHAFTA8\bin\Debug\NTPHAFTA8.exe
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA8\NTPHAFTA8\bin\Debug\NTPHAFTA8.pdb
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA8\NTPHAFTA8\obj\Debug\NTPHAFTA8.exe
+C:\Users\Esadcngl\Desktop\C#\NTP\NTPHAFTA8\NTPHAFTA8\obj\Debug\NTPHAFTA8.pdb
