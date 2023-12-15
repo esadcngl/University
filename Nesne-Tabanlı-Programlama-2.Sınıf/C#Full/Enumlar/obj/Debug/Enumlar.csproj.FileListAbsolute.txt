@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\C#Full\Enumlar\bin\Debug\Enumlar.exe.config
+C:\Users\Esadcngl\Desktop\C#Full\Enumlar\bin\Debug\Enumlar.exe
+C:\Users\Esadcngl\Desktop\C#Full\Enumlar\bin\Debug\Enumlar.pdb
+C:\Users\Esadcngl\Desktop\C#Full\Enumlar\obj\Debug\Enumlar.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\C#Full\Enumlar\obj\Debug\Enumlar.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\C#Full\Enumlar\obj\Debug\Enumlar.exe
+C:\Users\Esadcngl\Desktop\C#Full\Enumlar\obj\Debug\Enumlar.pdb

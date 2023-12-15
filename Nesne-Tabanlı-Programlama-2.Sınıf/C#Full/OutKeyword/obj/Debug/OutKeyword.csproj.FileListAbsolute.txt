@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\C#Full\OutKeyword\bin\Debug\OutKeyword.exe.config
+C:\Users\Esadcngl\Desktop\C#Full\OutKeyword\bin\Debug\OutKeyword.exe
+C:\Users\Esadcngl\Desktop\C#Full\OutKeyword\bin\Debug\OutKeyword.pdb
+C:\Users\Esadcngl\Desktop\C#Full\OutKeyword\obj\Debug\OutKeyword.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\C#Full\OutKeyword\obj\Debug\OutKeyword.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\C#Full\OutKeyword\obj\Debug\OutKeyword.exe
+C:\Users\Esadcngl\Desktop\C#Full\OutKeyword\obj\Debug\OutKeyword.pdb

@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\C# Egzersizleri\DateTimeExercises\bin\Debug\DateTimeExercises.exe.config
+C:\Users\Esadcngl\Desktop\C# Egzersizleri\DateTimeExercises\bin\Debug\DateTimeExercises.exe
+C:\Users\Esadcngl\Desktop\C# Egzersizleri\DateTimeExercises\bin\Debug\DateTimeExercises.pdb
+C:\Users\Esadcngl\Desktop\C# Egzersizleri\DateTimeExercises\obj\Debug\DateTimeExercises.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\C# Egzersizleri\DateTimeExercises\obj\Debug\DateTimeExercises.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\C# Egzersizleri\DateTimeExercises\obj\Debug\DateTimeExercises.exe
+C:\Users\Esadcngl\Desktop\C# Egzersizleri\DateTimeExercises\obj\Debug\DateTimeExercises.pdb
