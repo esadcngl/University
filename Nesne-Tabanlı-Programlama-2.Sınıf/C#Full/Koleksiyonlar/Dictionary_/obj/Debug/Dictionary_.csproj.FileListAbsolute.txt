@@ -1,0 +1,7 @@
+C:\Users\Esadcngl\Desktop\C#\Dictionary_\bin\Debug\Dictionary_.exe.config
+C:\Users\Esadcngl\Desktop\C#\Dictionary_\bin\Debug\Dictionary_.exe
+C:\Users\Esadcngl\Desktop\C#\Dictionary_\bin\Debug\Dictionary_.pdb
+C:\Users\Esadcngl\Desktop\C#\Dictionary_\obj\Debug\Dictionary_.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\C#\Dictionary_\obj\Debug\Dictionary_.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\C#\Dictionary_\obj\Debug\Dictionary_.exe
+C:\Users\Esadcngl\Desktop\C#\Dictionary_\obj\Debug\Dictionary_.pdb
