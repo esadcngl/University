@@ -1,0 +1,14 @@
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe.config
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\bin\Debug\OgrenciSistemi.exe
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\bin\Debug\OgrenciSistemi.pdb
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\bin\Debug\EntityFramework.dll
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\bin\Debug\EntityFramework.xml
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.AssemblyReference.cache
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\obj\Debug\OgrenciSistemi.Form1.resources
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.GenerateResource.cache
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\obj\Debug\OgrenciSistemi.csproj.CopyComplete
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\obj\Debug\OgrenciSistemi.exe
+C:\Users\Esadcngl\Desktop\Entity framework\OgrenciSistemi\obj\Debug\OgrenciSistemi.pdb

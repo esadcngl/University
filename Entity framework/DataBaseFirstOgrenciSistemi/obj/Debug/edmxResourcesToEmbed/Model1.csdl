@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="ogrenciSistemiModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="TBLDERSLER">
+    <Key>
+      <PropertyRef Name="DERSID" />
+    </Key>
+    <Property Name="DERSID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="DERSADI" Type="String" MaxLength="35" FixedLength="false" Unicode="false" />
+    <NavigationProperty Name="TBLNOTLAR" Relationship="ogrenciSistemiModel.FK_TBLNOTLAR_TBLDERSLER" FromRole="TBLDERSLER" ToRole="TBLNOTLAR" />
+  </EntityType>
+  <EntityType Name="TBLOGRENCI">
+    <Key>
+      <PropertyRef Name="OGRENCIID" />
+    </Key>
+    <Property Name="OGRENCIID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="AD" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="SOYAD" Type="String" MaxLength="25" FixedLength="false" Unicode="false" />
+    <Property Name="NO" Type="Int32" />
+    <NavigationProperty Name="TBLNOTLAR" Relationship="ogrenciSistemiModel.FK_TBLNOTLAR_TBLOGRENCI" FromRole="TBLOGRENCI" ToRole="TBLNOTLAR" />
+  </EntityType>
+  <EntityType Name="TBLNOTLAR">
+    <Key>
+      <PropertyRef Name="NOTID" />
+    </Key>
+    <Property Name="NOTID" Type="Int32" Nullable="false" annotation:StoreGeneratedPattern="Identity" />
+    <Property Name="SINAV1" Type="Int32" />
+    <Property Name="SINAV2" Type="Int32" />
+    <Property Name="SINAV3" Type="Int32" />
+    <Property Name="ORTALAMA" Type="Decimal" Precision="3" Scale="2" />
+    <Property Name="OGRENCIID" Type="Int32" />
+    <Property Name="DERSID" Type="Int32" />
+    <NavigationProperty Name="TBLDERSLER" Relationship="ogrenciSistemiModel.FK_TBLNOTLAR_TBLDERSLER" FromRole="TBLNOTLAR" ToRole="TBLDERSLER" />
+    <NavigationProperty Name="TBLOGRENCI" Relationship="ogrenciSistemiModel.FK_TBLNOTLAR_TBLOGRENCI" FromRole="TBLNOTLAR" ToRole="TBLOGRENCI" />
+  </EntityType>
+  <EntityContainer Name="ogrenciSistemiEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="TBLDERSLER" EntityType="Self.TBLDERSLER" />
+    <EntitySet Name="TBLOGRENCI" EntityType="Self.TBLOGRENCI" />
+    <EntitySet Name="TBLNOTLAR" EntityType="Self.TBLNOTLAR" />
+    <AssociationSet Name="FK_TBLNOTLAR_TBLDERSLER" Association="ogrenciSistemiModel.FK_TBLNOTLAR_TBLDERSLER">
+      <End Role="TBLDERSLER" EntitySet="TBLDERSLER" />
+      <End Role="TBLNOTLAR" EntitySet="TBLNOTLAR" />
+    </AssociationSet>
+    <AssociationSet Name="FK_TBLNOTLAR_TBLOGRENCI" Association="ogrenciSistemiModel.FK_TBLNOTLAR_TBLOGRENCI">
+      <End Role="TBLOGRENCI" EntitySet="TBLOGRENCI" />
+      <End Role="TBLNOTLAR" EntitySet="TBLNOTLAR" />
+    </AssociationSet>
+    <FunctionImport Name="NOTLISTESI" ReturnType="Collection(ogrenciSistemiModel.NOTLISTESI_Result)" />
+  </EntityContainer>
+  <Association Name="FK_TBLNOTLAR_TBLDERSLER">
+    <End Type="ogrenciSistemiModel.TBLDERSLER" Role="TBLDERSLER" Multiplicity="0..1" />
+    <End Type="ogrenciSistemiModel.TBLNOTLAR" Role="TBLNOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLDERSLER">
+        <PropertyRef Name="DERSID" />
+      </Principal>
+      <Dependent Role="TBLNOTLAR">
+        <PropertyRef Name="DERSID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <Association Name="FK_TBLNOTLAR_TBLOGRENCI">
+    <End Type="ogrenciSistemiModel.TBLOGRENCI" Role="TBLOGRENCI" Multiplicity="0..1" />
+    <End Type="ogrenciSistemiModel.TBLNOTLAR" Role="TBLNOTLAR" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="TBLOGRENCI">
+        <PropertyRef Name="OGRENCIID" />
+      </Principal>
+      <Dependent Role="TBLNOTLAR">
+        <PropertyRef Name="OGRENCIID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <ComplexType Name="NOTLISTESI_Result">
+    <Property Type="Int32" Name="NOTID" Nullable="false" />
+    <Property Type="String" Name="ADI_SOYADI" Nullable="true" MaxLength="51" />
+    <Property Type="Int32" Name="NO" Nullable="true" />
+    <Property Type="String" Name="DERSADI" Nullable="true" MaxLength="35" />
+    <Property Type="Int32" Name="SINAV1" Nullable="true" />
+    <Property Type="Int32" Name="SINAV2" Nullable="true" />
+    <Property Type="Int32" Name="SINAV3" Nullable="true" />
+    <Property Type="Decimal" Name="ORTALAMA" Nullable="true" Precision="3" Scale="2" />
+  </ComplexType>
+</Schema>

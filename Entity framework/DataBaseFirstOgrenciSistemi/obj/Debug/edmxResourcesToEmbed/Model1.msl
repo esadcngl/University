@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="ogrenciSistemiModelStoreContainer" CdmEntityContainer="ogrenciSistemiEntities">
+    <EntitySetMapping Name="TBLDERSLER">
+      <EntityTypeMapping TypeName="ogrenciSistemiModel.TBLDERSLER">
+        <MappingFragment StoreEntitySet="TBLDERSLER">
+          <ScalarProperty Name="DERSID" ColumnName="DERSID" />
+          <ScalarProperty Name="DERSADI" ColumnName="DERSADI" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLOGRENCI">
+      <EntityTypeMapping TypeName="ogrenciSistemiModel.TBLOGRENCI">
+        <MappingFragment StoreEntitySet="TBLOGRENCI">
+          <ScalarProperty Name="OGRENCIID" ColumnName="OGRENCIID" />
+          <ScalarProperty Name="AD" ColumnName="AD" />
+          <ScalarProperty Name="SOYAD" ColumnName="SOYAD" />
+          <ScalarProperty Name="NO" ColumnName="NO" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="TBLNOTLAR">
+      <EntityTypeMapping TypeName="ogrenciSistemiModel.TBLNOTLAR">
+        <MappingFragment StoreEntitySet="TBLNOTLAR">
+          <ScalarProperty Name="DERSID" ColumnName="DERSID" />
+          <ScalarProperty Name="OGRENCIID" ColumnName="OGRENCIID" />
+          <ScalarProperty Name="NOTID" ColumnName="NOTID" />
+          <ScalarProperty Name="SINAV1" ColumnName="SINAV1" />
+          <ScalarProperty Name="SINAV2" ColumnName="SINAV2" />
+          <ScalarProperty Name="SINAV3" ColumnName="SINAV3" />
+          <ScalarProperty Name="ORTALAMA" ColumnName="ORTALAMA" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <FunctionImportMapping FunctionImportName="NOTLISTESI" FunctionName="ogrenciSistemiModel.Store.NOTLISTESI">
+      <ResultMapping>
+        <ComplexTypeMapping TypeName="ogrenciSistemiModel.NOTLISTESI_Result">
+          <ScalarProperty Name="NOTID" ColumnName="NOTID" />
+          <ScalarProperty Name="ADI_SOYADI" ColumnName="ADI SOYADI" />
+          <ScalarProperty Name="NO" ColumnName="NO" />
+          <ScalarProperty Name="DERSADI" ColumnName="DERSADI" />
+          <ScalarProperty Name="SINAV1" ColumnName="SINAV1" />
+          <ScalarProperty Name="SINAV2" ColumnName="SINAV2" />
+          <ScalarProperty Name="SINAV3" ColumnName="SINAV3" />
+          <ScalarProperty Name="ORTALAMA" ColumnName="ORTALAMA" />
+        </ComplexTypeMapping>
+      </ResultMapping>
+    </FunctionImportMapping>
+  </EntityContainerMapping>
+</Mapping>
