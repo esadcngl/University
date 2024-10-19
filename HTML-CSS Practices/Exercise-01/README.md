@@ -1,1 +1,1 @@
-![Egzersiz 1](exercise-1.gif)
+![Egzersiz 1](CSSmenu.gif)
